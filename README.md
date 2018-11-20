@@ -1,2 +1,22 @@
-# fruitGame
-one game of shooting fruit
+# fruitGame #
+
+----------
+项目描述:
+一个使用java制作的射击水果学单词的益智类游戏
+
+功能描述:
+
+	1. 模型加载、碰撞检测
+	2. 动作设计
+	3. 水果运动轨迹合成
+	4. 语音播报
+	5. 其他
+
+部分效果gif展示：
+
+![](https://i.imgur.com/i2qIQNZ.gif)
+
+
+----------
+喵喵喵
+
